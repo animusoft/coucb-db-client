@@ -1,6 +1,6 @@
-# Copyright (C) Animusoft Corporation - All Rights Reserved.
-# Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential.
-# http://www.animusoft.com
+"""
+Author: Animusoft Corporation | Daniel Rodriguez
+"""
 
 """
 Native Python 3.4 CouchDB 1.5.0 Client

@@ -1,8 +1,4 @@
 """
-Author: Animusoft Corporation | Daniel Rodriguez
-"""
-
-"""
 Native Python 3.4 CouchDB 1.5.0 Client
 
  This client is designed to be used with Python 3.4. It uses the following modules to support this feature
